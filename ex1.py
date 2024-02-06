@@ -6,9 +6,3 @@ def sum_numbers(x,y):
     return result
 
 
-x = 733
-y = 83
-
-result = sum_numbers(x,y)
-
-print("Hello World", result)
